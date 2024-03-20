@@ -22,7 +22,12 @@ header div a {
     font-family: "Shadows Into Light", cursive;
 }
 
-header div a:hover {
+header div img {
+    width: 50px;
+    font-weight: 50px;
+}
+
+header div img:hover {
 color: black;
 transition: color 700ms;
 
